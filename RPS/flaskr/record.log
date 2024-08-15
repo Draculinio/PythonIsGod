@@ -1,0 +1,272 @@
+2024-08-13 23:24:13,133 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-13 23:24:13,137 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-13 23:24:48,260 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\app.py', reloading
+2024-08-13 23:24:48,547 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-13 23:24:48,551 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-13 23:24:53,040 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-13 23:24:53,040 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-08-13 23:24:53,049 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-13 23:24:53,264 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-13 23:24:53,268 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-13 23:25:13,824 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [13/Aug/2024 23:25:13] "[35m[1mPOST /play HTTP/1.1[0m" 500 -
+2024-08-13 23:30:51,782 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\app.py', reloading
+2024-08-13 23:30:51,807 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-13 23:30:52,136 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-13 23:30:52,139 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-13 23:30:56,625 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-13 23:30:56,625 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-08-13 23:30:56,628 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-13 23:30:56,876 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-13 23:30:56,880 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-13 23:31:07,133 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [13/Aug/2024 23:31:07] "[35m[1mPOST /play HTTP/1.1[0m" 500 -
+2024-08-13 23:37:07,713 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-13 23:37:07,713 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-08-13 23:37:07,716 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-13 23:37:07,910 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-13 23:37:07,913 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-13 23:37:43,007 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\app.py', reloading
+2024-08-13 23:37:43,034 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-13 23:37:43,266 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-13 23:37:43,269 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-13 23:37:59,314 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\rps.py', reloading
+2024-08-13 23:37:59,356 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-13 23:37:59,613 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-13 23:37:59,617 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-13 23:38:03,948 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-13 23:38:03,948 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-08-13 23:38:03,951 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-13 23:38:04,158 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-13 23:38:04,161 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-13 23:38:08,874 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [13/Aug/2024 23:38:08] "POST /play HTTP/1.1" 200 -
+2024-08-13 23:38:50,287 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-13 23:38:50,316 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-13 23:38:50,534 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-13 23:38:50,538 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-13 23:38:55,361 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-13 23:38:55,361 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-08-13 23:38:55,364 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-13 23:38:55,556 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-13 23:38:55,559 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-13 23:41:21,543 DEBUG flaskr.app Thread-2 (process_request_thread) : here
+2024-08-13 23:41:21,544 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [13/Aug/2024 23:41:21] "POST /play HTTP/1.1" 200 -
+2024-08-13 23:42:39,618 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-13 23:42:39,648 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-13 23:54:07,983 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-13 23:54:07,983 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-08-13 23:54:07,986 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-13 23:54:08,174 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-13 23:54:08,177 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-13 23:54:16,613 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [13/Aug/2024 23:54:16] "GET /statistics HTTP/1.1" 200 -
+2024-08-13 23:54:21,649 DEBUG flaskr.app Thread-3 (process_request_thread) : here
+2024-08-13 23:54:21,659 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [13/Aug/2024 23:54:21] "POST /play HTTP/1.1" 200 -
+2024-08-13 23:54:28,902 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [13/Aug/2024 23:54:28] "GET /statistics HTTP/1.1" 200 -
+2024-08-13 23:54:34,327 DEBUG flaskr.app Thread-5 (process_request_thread) : here
+2024-08-13 23:54:34,336 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [13/Aug/2024 23:54:34] "POST /play HTTP/1.1" 200 -
+2024-08-13 23:54:38,663 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [13/Aug/2024 23:54:38] "GET /statistics HTTP/1.1" 200 -
+2024-08-13 23:56:03,701 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-13 23:56:03,734 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-13 23:56:03,968 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-13 23:56:03,972 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-13 23:56:26,064 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\app.py', reloading
+2024-08-13 23:56:26,093 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-13 23:56:26,300 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-13 23:56:26,303 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-13 23:56:31,646 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-13 23:56:31,646 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-08-13 23:56:31,649 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-13 23:56:31,851 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-13 23:56:31,854 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-13 23:56:53,219 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [13/Aug/2024 23:56:53] "GET /statistics HTTP/1.1" 200 -
+2024-08-13 23:57:11,272 DEBUG flaskr.app Thread-3 (process_request_thread) : here
+2024-08-13 23:57:11,276 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [13/Aug/2024 23:57:11] "POST /play HTTP/1.1" 200 -
+2024-08-13 23:57:58,232 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\app.py', reloading
+2024-08-13 23:57:58,261 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-13 23:57:58,463 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-13 23:57:58,468 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-14 00:02:00,477 DEBUG flaskr.app Thread-2 (process_request_thread) : here
+2024-08-14 00:02:00,492 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [14/Aug/2024 00:02:00] "POST /play HTTP/1.1" 200 -
+2024-08-14 00:02:05,551 DEBUG flaskr.app Thread-3 (process_request_thread) : here
+2024-08-14 00:02:05,567 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [14/Aug/2024 00:02:05] "POST /play HTTP/1.1" 200 -
+2024-08-14 00:02:08,773 DEBUG flaskr.app Thread-4 (process_request_thread) : here
+2024-08-14 00:02:08,785 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [14/Aug/2024 00:02:08] "POST /play HTTP/1.1" 200 -
+2024-08-14 00:02:14,743 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [14/Aug/2024 00:02:14] "POST /play HTTP/1.1" 200 -
+2024-08-14 00:02:26,798 DEBUG flaskr.app Thread-6 (process_request_thread) : here
+2024-08-14 00:02:26,807 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [14/Aug/2024 00:02:26] "POST /play HTTP/1.1" 200 -
+2024-08-14 00:02:30,564 DEBUG flaskr.app Thread-7 (process_request_thread) : here
+2024-08-14 00:02:30,577 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [14/Aug/2024 00:02:30] "POST /play HTTP/1.1" 200 -
+2024-08-14 00:02:42,991 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [14/Aug/2024 00:02:42] "GET /statistics HTTP/1.1" 200 -
+2024-08-14 00:03:13,110 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\app.py', reloading
+2024-08-14 00:03:13,142 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-14 00:03:13,443 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-14 00:03:13,446 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-14 00:03:32,759 DEBUG flaskr.app Thread-2 (process_request_thread) : here
+2024-08-14 00:03:32,770 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [14/Aug/2024 00:03:32] "POST /play HTTP/1.1" 200 -
+2024-08-14 00:03:35,005 DEBUG flaskr.app Thread-3 (process_request_thread) : here
+2024-08-14 00:03:35,015 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [14/Aug/2024 00:03:35] "POST /play HTTP/1.1" 200 -
+2024-08-14 00:05:53,097 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-14 00:05:53,125 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-14 00:05:53,342 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-14 00:05:53,346 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-14 00:06:39,571 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-14 00:06:39,602 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-14 00:06:39,824 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-14 00:06:39,827 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-14 00:08:29,338 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-14 00:08:29,366 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-14 00:08:37,676 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-14 00:08:37,883 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-14 00:08:37,886 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-14 00:09:35,149 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-14 00:09:35,178 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-14 00:09:35,414 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-14 00:09:35,418 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-14 00:10:25,649 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-14 00:10:25,672 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-14 00:11:25,195 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-14 00:11:25,393 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-14 00:11:25,397 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-14 00:12:17,602 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-14 00:12:17,631 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-14 00:12:17,857 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-14 00:12:17,861 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-14 00:13:24,187 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-14 00:13:24,218 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-14 00:13:24,434 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-14 00:13:24,437 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-14 00:13:34,382 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [14/Aug/2024 00:13:34] "GET /statistics HTTP/1.1" 200 -
+2024-08-14 00:14:45,771 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-14 00:14:45,801 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-14 00:14:46,016 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-14 00:14:46,019 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-14 00:17:50,752 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-14 00:17:50,780 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-14 00:17:50,979 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-14 00:17:50,982 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-14 00:17:57,537 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [14/Aug/2024 00:17:57] "GET /statistics HTTP/1.1" 200 -
+2024-08-14 00:20:24,681 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-14 00:20:24,709 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-14 00:20:24,948 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-14 00:20:24,950 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-14 00:20:27,862 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [14/Aug/2024 00:20:27] "GET /statistics HTTP/1.1" 200 -
+2024-08-15 19:24:05,146 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-15 19:24:05,146 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-08-15 19:24:05,150 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-15 19:24:05,370 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-15 19:24:05,374 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-15 19:24:32,614 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 19:24:32] "GET /statistics HTTP/1.1" 200 -
+2024-08-15 19:25:09,615 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-15 19:25:09,657 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-15 19:25:09,861 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-15 19:25:09,864 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-15 19:25:16,029 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 19:25:16] "GET /statistics HTTP/1.1" 200 -
+2024-08-15 19:26:21,197 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-15 19:26:21,239 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-15 19:26:21,440 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-15 19:26:21,443 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-15 19:26:28,100 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 19:26:28] "GET /statistics HTTP/1.1" 200 -
+2024-08-15 19:27:29,761 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-15 19:27:29,784 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-15 19:27:29,985 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-15 19:27:29,988 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-15 19:27:39,254 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 19:27:39] "GET /statistics HTTP/1.1" 200 -
+2024-08-15 19:43:06,204 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-15 19:43:06,232 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-15 19:43:06,455 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-15 19:43:06,458 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-15 19:43:34,583 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-15 19:43:34,617 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-15 19:43:34,817 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-15 19:43:34,820 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-15 19:44:11,008 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-15 19:44:11,033 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-15 19:44:11,247 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-15 19:44:11,251 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-15 19:48:55,745 DEBUG flaskr.app Thread-2 (process_request_thread) : here
+2024-08-15 19:48:55,752 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 19:48:55] "POST /play HTTP/1.1" 200 -
+2024-08-15 19:48:57,819 DEBUG flaskr.app Thread-3 (process_request_thread) : here
+2024-08-15 19:48:57,823 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 19:48:57] "POST /play HTTP/1.1" 200 -
+2024-08-15 19:48:58,668 DEBUG flaskr.app Thread-4 (process_request_thread) : here
+2024-08-15 19:48:58,678 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 19:48:58] "POST /play HTTP/1.1" 200 -
+2024-08-15 19:48:59,501 DEBUG flaskr.app Thread-5 (process_request_thread) : here
+2024-08-15 19:48:59,509 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 19:48:59] "POST /play HTTP/1.1" 200 -
+2024-08-15 19:49:00,171 DEBUG flaskr.app Thread-6 (process_request_thread) : here
+2024-08-15 19:49:00,181 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 19:49:00] "POST /play HTTP/1.1" 200 -
+2024-08-15 19:49:00,884 DEBUG flaskr.app Thread-7 (process_request_thread) : here
+2024-08-15 19:49:00,894 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 19:49:00] "POST /play HTTP/1.1" 200 -
+2024-08-15 19:50:27,201 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-15 19:50:27,235 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-15 19:50:27,448 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-15 19:50:27,451 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-15 19:50:34,707 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 19:50:34] "GET /statistics HTTP/1.1" 200 -
+2024-08-15 19:52:45,120 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-15 19:52:45,153 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-15 19:52:45,374 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-15 19:52:45,377 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-15 19:54:31,934 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-15 19:54:31,963 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-15 19:54:32,178 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-15 19:54:32,181 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-15 19:54:50,273 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-15 19:54:50,299 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-15 19:54:50,502 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-15 19:54:50,505 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-15 19:54:53,765 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 19:54:53] "GET /statistics HTTP/1.1" 200 -
+2024-08-15 20:01:02,131 DEBUG flaskr.app Thread-3 (process_request_thread) : here
+2024-08-15 20:01:02,141 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:01:02] "POST /play HTTP/1.1" 200 -
+2024-08-15 20:01:04,337 DEBUG flaskr.app Thread-4 (process_request_thread) : here
+2024-08-15 20:01:04,342 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:01:04] "POST /play HTTP/1.1" 200 -
+2024-08-15 20:01:05,365 DEBUG flaskr.app Thread-5 (process_request_thread) : here
+2024-08-15 20:01:05,375 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:01:05] "POST /play HTTP/1.1" 200 -
+2024-08-15 20:01:38,102 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-15 20:01:38,149 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-15 20:01:38,463 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-15 20:01:38,467 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-15 20:04:24,130 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-15 20:04:24,176 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-15 20:04:24,446 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-15 20:04:24,449 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-15 20:04:45,419 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:04:45] "GET /statistics HTTP/1.1" 200 -
+2024-08-15 20:06:59,952 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-15 20:06:59,982 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-15 20:07:00,259 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-15 20:07:00,262 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-15 20:07:04,350 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:07:04] "GET /statistics HTTP/1.1" 200 -
+2024-08-15 20:10:09,396 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:10:09] "GET /statistics HTTP/1.1" 200 -
+2024-08-15 20:11:00,161 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-15 20:11:00,242 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-15 20:11:00,600 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-15 20:11:00,603 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-15 20:11:03,734 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:11:03] "GET /statistics HTTP/1.1" 200 -
+2024-08-15 20:12:21,854 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\pablo\\projects\\pptApi\\flaskr\\db_manager.py', reloading
+2024-08-15 20:12:21,890 INFO werkzeug MainThread :  * Restarting with stat
+2024-08-15 20:12:22,168 WARNING werkzeug MainThread :  * Debugger is active!
+2024-08-15 20:12:22,172 INFO werkzeug MainThread :  * Debugger PIN: 677-081-518
+2024-08-15 20:12:26,074 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:12:26] "GET /statistics HTTP/1.1" 200 -
+2024-08-15 20:12:57,689 DEBUG flaskr.app Thread-3 (process_request_thread) : here
+2024-08-15 20:12:57,695 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:12:57] "POST /play HTTP/1.1" 200 -
+2024-08-15 20:12:59,266 DEBUG flaskr.app Thread-4 (process_request_thread) : here
+2024-08-15 20:12:59,277 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:12:59] "POST /play HTTP/1.1" 200 -
+2024-08-15 20:13:05,704 DEBUG flaskr.app Thread-5 (process_request_thread) : here
+2024-08-15 20:13:05,715 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:13:05] "POST /play HTTP/1.1" 200 -
+2024-08-15 20:13:06,512 DEBUG flaskr.app Thread-6 (process_request_thread) : here
+2024-08-15 20:13:06,524 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:13:06] "POST /play HTTP/1.1" 200 -
+2024-08-15 20:44:04,525 DEBUG flaskr.app Thread-7 (process_request_thread) : here
+2024-08-15 20:44:04,531 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:44:04] "POST /play HTTP/1.1" 200 -
+2024-08-15 20:44:09,974 DEBUG flaskr.app Thread-8 (process_request_thread) : here
+2024-08-15 20:44:09,982 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:44:09] "POST /play HTTP/1.1" 200 -
+2024-08-15 20:44:14,669 DEBUG flaskr.app Thread-9 (process_request_thread) : here
+2024-08-15 20:44:14,684 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:44:14] "POST /play HTTP/1.1" 200 -
+2024-08-15 20:44:19,348 INFO werkzeug Thread-10 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:44:19] "GET /statistics HTTP/1.1" 200 -
+2024-08-15 20:44:58,350 DEBUG flaskr.app Thread-11 (process_request_thread) : here
+2024-08-15 20:44:58,361 INFO werkzeug Thread-11 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:44:58] "POST /play HTTP/1.1" 200 -
+2024-08-15 20:45:07,070 DEBUG flaskr.app Thread-12 (process_request_thread) : here
+2024-08-15 20:45:07,083 INFO werkzeug Thread-12 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:45:07] "POST /play HTTP/1.1" 200 -
+2024-08-15 20:45:13,261 INFO werkzeug Thread-13 (process_request_thread) : 127.0.0.1 - - [15/Aug/2024 20:45:13] "GET /statistics HTTP/1.1" 200 -
